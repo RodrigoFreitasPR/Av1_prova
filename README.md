@@ -47,7 +47,7 @@ Configure as credenciais de conexão em:
 ```properties
 spring.datasource.url=jdbc:mariadb://localhost:3306/f1db
 spring.datasource.username=root
-spring.datasource.password=
+spring.datasource.password=<senha>
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
