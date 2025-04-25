@@ -1,6 +1,4 @@
-Claro! Aqui está uma versão reestruturada e mais moderna do seu README para o GitHub, com um visual mais organizado, seções bem destacadas e emojis para melhorar a leitura:
 
----
 
 # 🏁 F1 API - Gerenciamento de Pilotos e Times de Fórmula 1
 
@@ -232,5 +230,3 @@ http://localhost:8080/api/teams
 Este projeto é de **uso acadêmico**, desenvolvido com fins didáticos para a disciplina de persistência com Spring Boot.
 
 ---
-
-Se quiser, posso adicionar um exemplo de JSON para criar piloto/time. Deseja isso?
